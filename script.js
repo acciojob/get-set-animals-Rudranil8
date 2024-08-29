@@ -1,5 +1,9 @@
 //complete this code
-class Animal {}
+class Animal {
+	constructor(species) {
+        // Initialize the species property
+    }
+}
 
 class Dog extends Animal {}
 
